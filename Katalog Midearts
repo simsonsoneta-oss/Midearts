@@ -60,6 +60,9 @@
       color: #f4c2c2;
     }
     footer a { color: #d4af37; text-decoration: none; }
+    footer b { color: #0000; text-decoration: smooth;}
+    footer c { color: #4FB7B3; text-frame right: none;}
+    footer d { color: #A8FBD3; text-frame left; none;}
   </style>
 </head>
 <body>
@@ -69,11 +72,20 @@
       <li><a href="index.html">Beranda</a></li>
       <li><a href="tentang.html">Tentang</a></li>
       <li><a href="katalog.html">Katalog</a></li>
+      <li><a href="kontak.html">Kontak</a></li>
+      <li><a href="alamat.html.">Alamat</a></li>
+      <li><a href="pengiriman.html">Pengiriman</a></li>
+      <li><a href="spesifikasi.html">Spesifikasi</a></li>
+      <li><a href="Pembayaran.html">Pembayaran</a></li>
     </ul>
   </nav>
 
   <header>
     <h1>Katalog Produk</h1>
+    <h2>Kontak Produk</h2>
+    <h3>Alamat Produk </h3>
+    <h4>Pengiriman Produk </h4>
+    <h5>Pembayaran Produk </h5>
   </header>
 
   <main class="grid">
